@@ -1,5 +1,5 @@
 Readme for TwitTube:
-Ruichi Yu ry2254, Shuguan Yang sy2518
+Shuguan Yang
 
 Our application implements following functions:
 1. We have a web app build on RDS and S3, which can let people start conversation based on broadcasting videos. 
